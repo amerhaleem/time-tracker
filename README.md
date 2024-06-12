@@ -2,5 +2,5 @@
 Java (Maven) application for tracking time on the job
 
 Time tracker
-hello students
+hello docker
 Good Evening Students!
